@@ -1,5 +1,5 @@
 {
-    "name": "threejs-practice",
+    "name": "threejs-post-processing",
     "version": "1.0.0",
     "description": "",
     "scripts": {
@@ -14,11 +14,11 @@
         "auto-bind": "^5.0.1",
         "imagesloaded": "^4.1.4",
         "locomotive-scroll": "^4.1.4",
-        "parcel": "^2.2.1",
         "three": "^0.137.5"
     },
     "devDependencies": {
         "@parcel/transformer-glsl": "^2.2.1",
-        "@parcel/transformer-sass": "^2.2.1"
+        "@parcel/transformer-sass": "^2.2.1",
+        "parcel": "^2.2.1"
     }
 }
